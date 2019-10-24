@@ -65,4 +65,3 @@ function gatherCorrelations(journal) {
     });
     return phis;
 };
-
